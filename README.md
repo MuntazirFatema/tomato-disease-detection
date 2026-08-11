@@ -1,6 +1,6 @@
 # 🍅 Tomato Disease Detection
 
-A deep learning-based web app that detects diseases in tomato leaves from uploaded images using a Convolutional Neural Network (CNN), built with **TensorFlow/Keras** and deployed with **Streamlit**.
+A deep learning-based web app that detects diseases in tomato leaves from uploaded image file using a Convolutional Neural Network (CNN), built with **TensorFlow/Keras** and deployed with **Streamlit**.
 
 🔗 **Live App:** [tomato-disease-detection.streamlit.app](https://tomato-disease-detection-nthzcywz6vq95uuux5ntcm.streamlit.app)
 
